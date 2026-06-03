@@ -1,0 +1,42 @@
+# Workspace
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Spring Boot / Gradle project
+/grocery-spring-boot-api/.gradle/
+/grocery-spring-boot-api/build/
+/grocery-spring-boot-api/bin/
+/grocery-spring-boot-api/out/
+/grocery-spring-boot-api/.apt_generated/
+/grocery-spring-boot-api/.classpath
+/grocery-spring-boot-api/.factorypath
+/grocery-spring-boot-api/.project
+/grocery-spring-boot-api/.settings/
+/grocery-spring-boot-api/.springBeans
+/grocery-spring-boot-api/.sts4-cache/
+/grocery-spring-boot-api/.idea/
+/grocery-spring-boot-api/*.iws
+/grocery-spring-boot-api/*.iml
+/grocery-spring-boot-api/*.ipr
+/grocery-spring-boot-api/nbproject/
+/grocery-spring-boot-api/nbbuild/
+/grocery-spring-boot-api/dist/
+/grocery-spring-boot-api/nbdist/
+/grocery-spring-boot-api/.nb-gradle/
+
+# React project
+/grocery-react-web-app/.git/
+/grocery-react-web-app/node_modules/
+/grocery-react-web-app/build/
+/grocery-react-web-app/coverage/
+/grocery-react-web-app/.pnp
+/grocery-react-web-app/.pnp.js
+/grocery-react-web-app/.env.local
+/grocery-react-web-app/.env.development.local
+/grocery-react-web-app/.env.test.local
+/grocery-react-web-app/.env.production.local
+/grocery-react-web-app/npm-debug.log*
+/grocery-react-web-app/yarn-debug.log*
+/grocery-react-web-app/yarn-error.log*
